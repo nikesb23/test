@@ -1,5 +1,5 @@
 data:
-  env:config-eureka-dev
+  env: localhost-online
   user:
-    username:eureka-client-user
-    password:1219
+    username: fengzheng-online
+    password: password-online
