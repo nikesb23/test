@@ -1,4 +1,4 @@
-port: 9500
+port: 7201
 data:
   env: localhost-online
   user:
